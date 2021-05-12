@@ -146,13 +146,13 @@ def edit(pb):
 def endnote(): 
 
 	print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~") 
-	print("Arav's Contact Diary closing.......") 	
+	print("Contact Diary closing.......") 	
 	print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~") 
 
 
 
 
-print("\t\t\tArav's Contact Diary") 
+print("\t\t\tContact Diary") 
 print("...................................") 
 print("...................................") 
 
